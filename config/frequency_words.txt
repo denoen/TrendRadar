@@ -1,77 +1,31 @@
-{
-  "paradigm_trends": [
-    "会话流",
-    "对话式交互",
-    "一语直达",
-    "Agentic AI",
-    "AI Agents",
-    "Autonomous Agents",
-    "AI 调度",
-    "智能体编排",
-    "Super App",
-    "超级APP",
-    "Mini App",
-    "小程序",
-    "小程序容器",
-    "轻应用",
-    "对话驱动应用"
-  ],
-  "ai_products": [
-    "大语言模型",
-    "Large Language Model",
-    "多模态大模型",
-    "Multimodal AI",
-    "行业大模型",
-    "Domain LLM",
-    "生成式AI",
-    "Generative AI",
-    "AIGC",
-    "智能体",
-    "AI Agent",
-    "数字人",
-    "Digital Human",
-    "Copilot",
-    "AI Copilot",
-    "AI 助手",
-    "AI Assistant",
-    "聊天机器人",
-    "Chatbot",
-    "RAG",
-    "检索增强生成",
-    "Workflow Orchestration",
-    "Tool Calling",
-    "Function Calling"
-  ],
-  "industry_scenarios": [
-    "智能客服",
-    "Customer Service AI",
-    "智能营销",
-    "AI Marketing",
-    "智能运营",
-    "AI Operations",
-    "智能风控",
-    "AI 风控",
-    "AI 审核",
-    "内容审核AI",
-    "媒体融合",
-    "Media Convergence",
-    "AI 视频生成",
-    "虚拟主播",
-    "Virtual Anchor",
-    "数字政府",
-    "Digital Government",
-    "智慧政务",
-    "Smart Government",
-    "一网通办",
-    "城市大脑",
-    "信创",
-    "国产化替代",
-    "工业互联网",
-    "Industrial Internet",
-    "智能制造",
-    "Smart Manufacturing"
-  ],
-  "business_signals": [
-    "AI 赋能",
-  ]
-}
+DeepSeek
+梁文锋
+
+AI Agents
+AI 调度
+
+智能体编排
+AI Copilot
+
+
+Super App
+
+Mini App
+小程序
+
+谷歌
+google
+gemini
+
+chatgpt
+openai
+
+Claude
+Anthropic
+
+金价
+
+美债
+
+美元
++指数
